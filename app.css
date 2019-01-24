@@ -1,0 +1,81 @@
+/* Assignment 3's CSS */
+
+* {
+            padding:0;
+            margin:0;
+        }
+        
+        div#wrapper{
+   			width: 78%;
+    		max-width: 1100px;
+   			margin:0 auto;
+    		overflow: hidden;
+    		background: #5F9EA0;
+		}
+
+
+       .two-background {
+       		background-color: yellow;
+       }
+
+       
+       	#firstImage{
+       		margin-left: 20px;
+       		margin-top: 20px;
+       		margin-bottom: 20px;
+       		float: right;
+		    width: 40%;
+		    max-width: 300px;
+		    display: block;
+		    
+		}
+
+		img#img{
+			margin-left: 20px;
+       		margin-top: 20px;
+       		margin-bottom: 20px;
+       		float: right;
+		    width: 40%;
+		    max-width: 300px;
+		    visibility: hidden;
+		    display: block;
+		    
+		}
+
+		h1{
+
+		    display: block;
+		    margin: 0 auto;
+		    font-family: Helvetica, Verdana, Arial; 
+		    color: black;
+		}
+
+		div#one{
+    
+		     float: left;
+		     width: 40%;
+		     margin-left: 1.8%;
+		     padding: 15px;
+		     margin-top: 40px;
+		     margin-bottom: 20px;   
+		}
+
+		div#two{
+			 float: left;
+		     width: 40%;
+		     margin-left: 1.8%;
+		     padding: 15px;
+		     margin-top: 40px;
+		     margin-bottom: 20px;  
+		}
+
+
+		div#three{
+			 float: left;
+		     width: 40%;
+		     margin-left: 1.8%;
+		     padding: 15px;
+		     margin-top: 40px;
+		     margin-bottom: 20px;  
+		}
+
